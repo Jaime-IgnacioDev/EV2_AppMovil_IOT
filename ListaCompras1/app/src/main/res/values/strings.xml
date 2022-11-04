@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">ListaCompras</string>
+
+    //BOTONES
+
+    <string name="ver_lista">Ver Lista</string>
+    <string name="ingresar_producto">Ingresar Nuevo Producto</string>
+    <string name="limpiar_lista">Eliminar Comprados</string>
+    <string name="comprado">COMPRADO</string>
+    <string name="pendiente">PENDIENTE</string>
+    <string name="boton_ingresar_prod">INGRESAR PRODUCTO</string>
+
+    //TEXT VIEW
+
+    <string name="nombre">Nombre</string>
+    <string name="cantidad">Cantidad</string>
+    <string name="estado">Estado</string>
+    <string name="ing_lista">Ingresa un Producto a la Lista</string>
+    <string name="nombre_producto">Nombre del Producto</string>
+    <string name="cantidad_prod">Cantidad</string>
+    <string name="otra_unidad">Otra Unidad</string>
+    <string name="inicio">Lista de Compras</string>
+
+    //TEXT ARRAY
+
+    <string-array name="unidad">
+        <item>Unidades</item>
+        <item>Kilos</item>
+        <item>Litros</item>
+        <item>Cajas</item>
+        <item>Paquetes</item>
+        <item>Otro</item>
+    </string-array>
+
+</resources>
